@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # my apps
-    'website',
+    'website.apps.WebsiteConfig',
 ]
 
 MIDDLEWARE = [
